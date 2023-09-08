@@ -19,6 +19,7 @@
 |  Funciones y comandos  |                                           Sip |
 | :---------------------------------------------: | :-----------: |
 | Crea stickers|✔️|
+| New server |✔️|
 | Bienvenida automática|✔️|
 | Anti-Link|✔️|
 | Anti-Fakes|✔️|
