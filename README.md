@@ -35,7 +35,6 @@
 | Chat-Bot|✔️|
 | Botones clásicos|✔️|
 | Random commands|✔️|
-| NSFW|🔞|
 | Más funciones en adelante|♻️|
 
 # Se les recomienda instalar uno de estos WhatsApps:
