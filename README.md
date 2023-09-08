@@ -26,7 +26,6 @@
 | Anti-Estranjeros|✔️|
 | Anti-Spam(Command flood)|✔️|
 | Anti-Llamadas|✔️|
-| Anti-Privados|✔️|
 | Modo Publico/Privado|✔️|
 | Herramientas de edición|✔️|
 | Creador de logos|✔️|
@@ -37,8 +36,8 @@
 | Random commands|✔️|
 | Más funciones en adelante|♻️|
 
-# Se les recomienda instalar uno de estos WhatsApps:
-# https://fgmods.epizy.com/?i=1
+
+
 
 # 🪀 Instalación en varias plataformas...
 
