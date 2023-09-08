@@ -31,7 +31,6 @@
 | Herramientas de edición|✔️|
 | Creador de logos|✔️|
 | Anime|✔️|
-| Juegos|✔️|
 | Descarga de música/videos|✔️|
 | Chat-Bot|✔️|
 | Botones clásicos|✔️|
